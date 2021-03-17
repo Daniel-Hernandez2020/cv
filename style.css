@@ -21,10 +21,11 @@
 
         margin-top: 15px;
         flex-basis: 800px;
-        height: 900px;
+        height: 1100px;
         background-color: white;
         display: flex;
         font-family: 'Oswald', sans-serif;
+        margin-bottom: 15px;
         
  }
 
