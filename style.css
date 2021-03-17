@@ -18,7 +18,7 @@
  .container{
 
         margin-top: 15px;
-        flex-basis: 50%;
+        flex-basis: 800px;
         height: 97vh;
         background-color: white;
         display: flex;
